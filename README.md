@@ -9,4 +9,6 @@ You can run ``Python-Encryption-Tool`` using the following command:
 
 	$ python ./PET
 
+Please note that this is an alpha version, so it may contain bugs. If you encounter any issues, please report them via the `issue tracker`_.
+
 (Actually, this is my first python code yippee!!)
