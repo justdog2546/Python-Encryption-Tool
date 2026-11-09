@@ -12,7 +12,7 @@ pleas to run this code use ``Python 3.15.2`` to run this code
 
 	$ python -m pip install -r requirements.txt
 
-or
+or (v.0.4-alpha)
 
 	$ python -m pip install cffi cryptography pycparser
 	
