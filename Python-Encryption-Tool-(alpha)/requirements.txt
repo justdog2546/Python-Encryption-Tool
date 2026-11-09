@@ -1,2 +1,0 @@
-# requirements.txt
-cryptograhphy>=42.0.0
